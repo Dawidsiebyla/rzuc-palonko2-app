@@ -1,0 +1,17 @@
+.calculator-container {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.calculator-heading {
+    margin-bottom: 15px;
+    color: #007bff;
+}
+
+.calculator-data {
+    font-size: 16px;
+    margin: 5px 0;
+}

@@ -1,0 +1,27 @@
+.navbar {
+    background-color: lightsteelblue;
+
+}
+.brand .item_list {
+    color: #FFF !important;
+}
+
+.item_list:hover {
+    color: orange ;
+}
+.btn {
+    background-color: #483d8b;
+    color: orange;
+    border: none;
+    border-radius: 20px;
+}
+
+.container-fluid {
+    background: url("https://zapodaj.net/images/ba06205f37fa1.jpg");
+    background: center;
+    background-size: cover;
+    height: 100vw;
+    width: 100vw;
+    box-sizing: border-box;
+
+}
